@@ -1,0 +1,1 @@
+{"name":"Local: redundantParenthesis","url":"c:\\Users\\BPATC\\Desktop\\PracticeCode\\stack\\redundantParenthesis.cpp","tests":[{"id":1711124241841,"input":"((a+b))","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\BPATC\\Desktop\\PracticeCode\\stack\\redundantParenthesis.cpp","group":"local","local":true}

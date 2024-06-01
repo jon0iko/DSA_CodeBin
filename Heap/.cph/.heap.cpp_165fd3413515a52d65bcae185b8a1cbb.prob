@@ -1,0 +1,1 @@
+{"name":"Local: heap","url":"c:\\Users\\BPATC\\Desktop\\PracticeCode\\Heap\\heap.cpp","tests":[{"id":1714462667751,"input":"6\n1 6 9 3 5 4","output":""},{"id":1714767101651,"input":"3\n3 1 12","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\BPATC\\Desktop\\PracticeCode\\Heap\\heap.cpp","group":"local","local":true}

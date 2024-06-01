@@ -1,0 +1,1 @@
+{"name":"Local: inPostfix","url":"/home/nillohit/Desktop/Code/DSA/inPostfix.cpp","tests":[{"id":1706971580994,"input":"a+b*(c^d)","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/nillohit/Desktop/Code/DSA/inPostfix.cpp","group":"local","local":true}

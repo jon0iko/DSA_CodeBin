@@ -1,0 +1,1 @@
+{"name":"Local: LargestRect","url":"c:\\Users\\BPATC\\Desktop\\PracticeCode\\LargestRect.cpp","tests":[{"id":1711121939193,"input":"7\n6 2 5 4 5 1 6","output":""},{"id":1711122440715,"input":"6\n3 5 1 7 5 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\BPATC\\Desktop\\PracticeCode\\LargestRect.cpp","group":"local","local":true}
